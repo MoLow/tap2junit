@@ -1,5 +1,17 @@
 # tap2junit changelog
 
+## [0.2.0](https://github.com/MoLow/tap2junit/compare/v0.1.6...v0.2.0) (2024-06-17)
+
+
+### Features
+
+* add missing release-please files ([efaf634](https://github.com/MoLow/tap2junit/commit/efaf634126c82edb551b89391a86a9bf8d56dca5))
+
+
+### Bug Fixes
+
+* explicitly encode input file with utf-8 ([#45](https://github.com/MoLow/tap2junit/issues/45)) ([3527392](https://github.com/MoLow/tap2junit/commit/35273928126f59b125fe86540076ebf542712784))
+
 ### 0.1.6
 * Support for parsing YAML blocks
 * Add option to override test suite name
